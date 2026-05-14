@@ -277,7 +277,7 @@ collective-ai-network
 Original conceptual proposal by Heeyong Lee.
 
 
-GitHub README 영어 버전 예시
+GitHub README 영어 버전
 
 # Lee Heeyong's Law
 
@@ -399,10 +399,6 @@ This document is released under the CC BY 4.0 License.
 # Repository Structure
 
 /whitepaper README.md whitepaper_en.md whitepaper_ko.md
-
-
-
-추가로 GitHub 저장소 설명(Description)도 짧게 넣는 게 좋습니다:
 
 A conceptual framework for decentralized collective AI infrastructure.
 
