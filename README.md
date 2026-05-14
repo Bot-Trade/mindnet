@@ -274,6 +274,148 @@ open-ai-grid
 collective-ai-network
 
 
-그리고 README 첫 줄에 아래 문구를 넣는 것도 좋습니다:
-
 Original conceptual proposal by Heeyong Lee.
+
+
+GitHub README 영어 버전 예시
+
+# Lee Heeyong's Law
+
+## A Conceptual Framework for Decentralized Collective AI Infrastructure
+
+### Author
+Heeyong Lee (이희용)
+
+---
+
+## Abstract
+
+Lee Heeyong's Law proposes that globally distributed idle computing resources can collectively evolve into a decentralized artificial intelligence infrastructure capable of rivaling centralized AI systems.
+
+Instead of relying only on massive corporate data centers, this concept explores a future where individuals contribute unused GPU, CPU, storage, and bandwidth resources into a shared AI network.
+
+The idea combines principles from:
+- Distributed Computing
+- Blockchain Architecture
+- Federated Learning
+- Peer-to-Peer Networks
+- Collective Intelligence Systems
+
+---
+
+# Core Principle
+
+> “The aggregate of globally distributed idle computing resources converges toward a collective computational intelligence capable of rivaling centralized AI infrastructure.”
+
+---
+
+# Vision
+
+Bitcoin decentralized finance.
+
+Lee Heeyong's Law aims to decentralize artificial intelligence infrastructure.
+
+The long-term vision is:
+- Open AI participation
+- Distributed model execution
+- Shared computational intelligence
+- Incentive-driven AI contribution systems
+
+---
+
+# Potential Architecture
+
+Participants may contribute:
+- GPU resources
+- CPU resources
+- Storage capacity
+- Memory
+- Network bandwidth
+
+The network may distribute:
+- AI inference tasks
+- Model training
+- Weight storage
+- Validation processes
+- Data sharding
+
+---
+
+# Key Advantages
+
+## Decentralization
+Reduces dependence on centralized AI monopolies.
+
+## Resource Efficiency
+Utilizes globally idle hardware resources.
+
+## Global Participation
+Anyone can contribute to AI infrastructure.
+
+## Scalability
+The network grows as participation increases.
+
+---
+
+# Challenges
+
+- Latency
+- Malicious nodes
+- Data verification
+- Synchronization
+- Privacy
+- Hardware inconsistency
+
+Further research is required to solve these problems.
+
+---
+
+# Inspiration
+
+This concept was inspired by:
+- Bitcoin
+- Chia Network
+- Federated Learning
+- Distributed Systems
+- Open Participation Networks
+
+---
+
+# Conclusion
+
+If Bitcoin decentralized money,
+Lee Heeyong's Law proposes the decentralization of AI computation itself.
+
+The future of AI may not belong only to centralized corporations, but to a globally connected collective intelligence network.
+
+---
+
+# License
+
+This document is released under the CC BY 4.0 License.
+
+---
+
+# Repository Structure
+
+/whitepaper README.md whitepaper_en.md whitepaper_ko.md
+
+
+
+추가로 GitHub 저장소 설명(Description)도 짧게 넣는 게 좋습니다:
+
+A conceptual framework for decentralized collective AI infrastructure.
+
+태그(Topics) 추천:
+
+ai
+decentralized-ai
+distributed-computing
+collective-intelligence
+blockchain
+federated-learning
+p2p
+open-ai
+
+
+Initial publication of Lee Heeyong's Law whitepaper
